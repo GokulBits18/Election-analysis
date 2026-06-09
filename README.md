@@ -13,7 +13,7 @@ This project demonstrates the end-to-end workflow of a Machine Learning applicat
 * Model Deployment using FastAPI
 * Interactive Dashboard using Streamlit
 * Election Winner Prediction
-* Turnout Scenario Simulation
+  
 
 Users can select a constituency from the Kerala Assembly Election dataset and view:
 
@@ -22,6 +22,6 @@ Users can select a constituency from the Kerala Assembly Election dataset and vi
 * NDA votes
 * Predicted winner
 * Vote share analysis
-* Turnout simulation results
+  
 
 ---
